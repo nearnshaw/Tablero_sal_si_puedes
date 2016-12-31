@@ -1,0 +1,5 @@
+127.0.0.1, hab13tel;
+127.0.0.2, hab13puerta;
+127.0.0.3, hab13palancas;
+127.0.0.4, hab13luces;
+127.0.0.5, hab13tel;
