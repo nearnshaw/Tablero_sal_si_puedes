@@ -1,5 +1,6 @@
-1,hab13tel;
-2,hab13silla;
-3,hab13cuadro;
-4,hab13maquina;
-5,hab13llamador;
+1, hab13tel;
+2, hab13silla;
+3, hab13cuadro;
+4, hab13maquina;
+5, hab13llamador;
+6, hab13espejo;

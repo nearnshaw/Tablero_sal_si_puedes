@@ -2,10 +2,10 @@ hab13tel, 192.168.0.50;
 hab13silla, 192.168.0.51;
 hab13cuadro, 192.168.0.52;
 hab13maquina, 192.168.0.53;
-hab15llamador, 192.168.0.54;
-hab13espejo, 192.168.0.55;
+hab13espejo, 192.168.0.54;
 androajedrez, 192.168.0.60;
 androzapato, 192.168.0.61;
 androcompu, 192.168.0.62;
 andromapa, 192.168.0.63;
+
 template, 192.168.0.45;

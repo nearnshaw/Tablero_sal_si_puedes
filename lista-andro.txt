@@ -1,0 +1,4 @@
+1, androajedrez;
+2, androzapato;
+3, androcompu;
+4, andromapa;
