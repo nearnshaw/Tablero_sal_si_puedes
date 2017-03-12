@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 677.0, 193.0, 642.0, 588.0 ],
+		"rect" : [ 162.0, 96.0, 804.0, 588.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -350,6 +350,59 @@
 			}
 , 			{
 				"box" : 				{
+					"coll_data" : 					{
+						"count" : 12,
+						"data" : [ 							{
+								"key" : "hab13tel",
+								"value" : [ "192.168.0.50" ]
+							}
+, 							{
+								"key" : "hab13silla",
+								"value" : [ "192.168.0.51" ]
+							}
+, 							{
+								"key" : "hab13cuadro",
+								"value" : [ "192.168.0.52" ]
+							}
+, 							{
+								"key" : "hab13maquina",
+								"value" : [ "192.168.0.53" ]
+							}
+, 							{
+								"key" : "hab13espejo",
+								"value" : [ "192.168.0.55" ]
+							}
+, 							{
+								"key" : "hab13luz",
+								"value" : [ "192.168.0.56" ]
+							}
+, 							{
+								"key" : "hab13portal",
+								"value" : [ "192.168.0.57" ]
+							}
+, 							{
+								"key" : "hab13trueno",
+								"value" : [ "192.168.0.58" ]
+							}
+, 							{
+								"key" : "hab13velador",
+								"value" : [ "192.168.0.59" ]
+							}
+, 							{
+								"key" : "androcompu",
+								"value" : [ "192.168.0.60" ]
+							}
+, 							{
+								"key" : "andromapa",
+								"value" : [ "192.168.0.63" ]
+							}
+, 							{
+								"key" : "template",
+								"value" : [ "192.168.0.45" ]
+							}
+ ]
+					}
+,
 					"id" : "obj-2",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
@@ -357,7 +410,7 @@
 					"outlettype" : [ "", "", "", "" ],
 					"patching_rect" : [ 560.0, 236.0, 69.0, 22.0 ],
 					"saved_object_attributes" : 					{
-						"embed" : 0
+						"embed" : 1
 					}
 ,
 					"style" : "",
@@ -808,7 +861,13 @@
 
 			}
  ],
-		"dependency_cache" : [  ],
+		"dependency_cache" : [ 			{
+				"name" : "lista-IPs.txt",
+				"bootpath" : "~/Max 7/Projects/Tablero_sal_si_puedes",
+				"type" : "TEXT",
+				"implicit" : 1
+			}
+ ],
 		"autosave" : 0,
 		"styles" : [ 			{
 				"name" : "helpfile_label-1",
