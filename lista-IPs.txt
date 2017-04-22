@@ -3,7 +3,6 @@ hab13silla, 192.168.0.51;
 hab13cuadro, 192.168.0.52;
 hab13maquina, 192.168.0.53;
 hab13espejo, 192.168.0.55;
-hab13luz, 192.168.0.56;
 hab13portal, 192.168.0.57;
 hab13trueno, 192.168.0.58;
 hab13velador, 192.168.0.59;
